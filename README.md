@@ -1,2 +1,2 @@
 # Granny-Groove
-in this game, you play as a ghost racing to reunite with your beloved spirit. Dodge and outmaneuver grannies blocking your path
+In this game, you play as a ghost racing through a haunted house to reunite with your beloved spirit. The gost collects flowers to boost score and use the ability to become transparent to dodge grannies blocking the path. As time passes, evading the grannies becomes more challenging. 
